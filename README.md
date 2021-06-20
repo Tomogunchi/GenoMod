@@ -32,4 +32,4 @@
 1. Download the [latest release here](https://github.com/Tomogunchi/GenoMod/releases/latest "Latest Release").
 2. Download and open **GenoMod.zip**
 3. Extract the contents of **GenoMod.zip** into your Venge Client resource swapper
-4. Launch or restart your client
+4. Launch or restart your client.
