@@ -22,7 +22,7 @@
 ## Installation Methods
 
 #### Quick Installation
-1. Right click [GenoMod](https://github.com/Tomogunchi/GenoMod/releases/download/v1/GenoMod.v1.zip) and click "Copy Link Address"
+1. Right click [GenoMod](https://github.com/Tomogunchi/GenoMod/releases/download/V1.1/GenoMod.v1.1.zip) and click "Copy Link Address"
 2. Go to your Venge Client settings
 3. Go to **Client**
 4. Paste the link into the **Resource URL** box
@@ -31,5 +31,6 @@
 #### Manual Installation
 1. Download the [latest release here](https://github.com/Tomogunchi/GenoMod/releases/latest "Latest Release").
 2. Download and open **GenoMod.zip**
-3. Extract the contents of **GenoMod.zip** into your Venge Client resource swapper
-4. Launch or restart your client.
+3. Extract the "files" folder from **GenoMod.zip** into your Venge Client resource swapper
+4. Extract the "genomodscript.js" and the "charfix.js" into your Venge Client userscripts folder
+5. Launch or restart your client.
