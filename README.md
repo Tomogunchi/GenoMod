@@ -22,7 +22,7 @@
 ## Installation Methods
 
 #### Quick Installation
-1. Right click [GenoMod](https://github.com/Tomogunchi/GenoMod/releases/download/V1.1/GenoMod.v1.1.zip) and click "Copy Link Address"
+1. Right click [GenoMod](https://github.com/Tomogunchi/GenoMod/releases/download/v2/GenoMod.v2.zip) and click "Copy Link Address"
 2. Go to your Venge Client settings
 3. Go to **Client**
 4. Paste the link into the **Resource URL** box
