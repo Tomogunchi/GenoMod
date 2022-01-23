@@ -19,16 +19,7 @@
 - Custom textures that let you have a huge competitve advantage over other players.
 - Satisfying and easy to hear sounds for the best Venge competitive experience possible.
 
-## Installation Methods
-
-#### Quick Installation
-1. Right click [GenoMod](https://github.com/Tomogunchi/GenoMod/releases/download/v2/GenoMod.v2.zip) and click "Copy Link Address"
-2. Go to your Venge Client settings
-3. Go to **Client**
-4. Paste the link into the **Resource URL** box
-5. Restart your client
-
-#### Manual Installation
+## Manual Installation
 1. Download the [latest release here](https://github.com/Tomogunchi/GenoMod/releases/latest "Latest Release").
 2. Download and open **GenoMod.zip**
 3. Extract the "files" folder from **GenoMod.zip** into your Venge Client resource swapper
